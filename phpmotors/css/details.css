@@ -1,0 +1,19 @@
+img {
+    width: 100%;
+}
+
+main p {
+    background-color: rgb(243, 243, 243);
+}
+
+#inv-display li a {
+    width: 100%;
+}
+
+#inv-display li a img {
+    width: 100%;
+}
+
+img[src$="search-icon.png"] {
+    max-width: 20px;
+}
